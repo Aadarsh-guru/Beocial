@@ -4,9 +4,9 @@
 
 If you discover a security vulnerability in Beocial, please follow these steps to report it:
 
-1. **Report the Issue**: Open an issue on our [GitHub repository](https://github.com/yourusername/beocial/issues) with detailed information about the vulnerability. If you prefer, you can contact us directly at [security@beocial.com](mailto:security@beocial.com).
+1. **Report the Issue**: Open an issue on our [GitHub repository](https://github.com/Aadarsh_guru/beocial/issues) with detailed information about the vulnerability. If you prefer, you can contact us directly at [aadarshgurug@gmail.com](mailto:aadarshgurug@gmail.com).
 
-2. **Provide Details**: Include as much detail as possible about the vulnerability, including steps to reproduce it and any potential impact.
+2. **Praadarshgurug@gmail.comovide Details**: Include as much detail as possible about the vulnerability, including steps to reproduce it and any potential impact.
 
 3. **Response Time**: We will acknowledge receipt of your report within 48 hours and provide a response on our plan of action or additional information required.
 
